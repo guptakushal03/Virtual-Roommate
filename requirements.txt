@@ -1,0 +1,5 @@
+pystray
+Pillow
+pyttsx3
+win10toast-click
+wmi
